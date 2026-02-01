@@ -1,0 +1,16 @@
+# Pythonのキャッシュ
+__pycache__/
+*.py[cod]
+
+# 仮想環境
+.venv/
+venv/
+
+# PyInstallerのビルド用（EXE化の過程で作られる不要なもの）
+build/
+dist/
+*.spec
+
+# OSのゴミ箱ファイル
+.DS_Store
+Thumbs.db
