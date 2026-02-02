@@ -39,3 +39,12 @@ CPU対戦機能を搭載し、BGMや効果音による演出にもこだわり�
     <img src="playing3.png" alt="10x10オセロ プレイ中の画面">
     <figcaption>プレイング画面3</figcaption>
 </figure>
+
+### 2. 終了画面
+CPUとの対戦結果のリザルトが表示されます。
+具体的に説明すると「黒〇〇-白〇〇」と表示されます。
+また、枚数が多い方、この場合だと黒が56枚差で勝っているので「黒の勝ち！」と表示されています。
+<figure>
+    <img src="finishing.png" alt="10x10オセロ 終了画面">
+    <figcaption>終了画面</figcaption>
+</figure>
