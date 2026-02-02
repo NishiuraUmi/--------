@@ -1,7 +1,7 @@
 # 10x10 オセロ（カスタム版）
 
 ## 概要
-PythonのPygameで作成した、通常より広い10x10盤面のオセロゲームです。
+PythonのPygameで作成した、通常である8×8よりより広い10x10盤面のオセロゲームです。
 CPU対戦機能を搭載し、BGMや効果音による演出にもこだわりました。
 .exeファイルのダウンロードは[こちら](https://drive.google.com/file/d/1Qhiyhq0bySYJqFVDWLJTVL-eVaiRthSg/view?usp=drive_link)
 
@@ -35,6 +35,9 @@ CPU対戦機能を搭載し、BGMや効果音による演出にもこだわり�
     <img src="playing2.png" alt="10x10オセロ プレイ中の画面">
     <figcaption>プレイング画面2</figcaption>
 </figure>
+下の画像のように、外壁や隅を上手く取ることを意識するとオセロにおいては強いです。
+しかし、最も重要なのは相手の置ける場所、即ち選択肢を少なくする手を打ち続けることが重要です。
+なので、コツとしては6×6や8×8のリバーシとあまり変わらないですが、外壁や隅にまで辿り着くのが遅くなるためよりCPUが置きそうな手を読んだり、選択肢を減らすことが重要だと作者視点では思いました。
 <figure>
     <img src="playing3.png" alt="10x10オセロ プレイ中の画面">
     <figcaption>プレイング画面3</figcaption>
