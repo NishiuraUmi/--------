@@ -3,7 +3,7 @@
 ## 概要
 PythonのPygameで作成した、通常より広い10x10盤面のオセロゲームです。
 CPU対戦機能を搭載し、BGMや効果音による演出にもこだわりました。
-.exeファイルのダウンロードは[こちら](ここにコピーしたEXEのリンクを貼る)
+.exeファイルのダウンロードは[こちら](https://drive.google.com/file/d/1Qhiyhq0bySYJqFVDWLJTVL-eVaiRthSg/view?usp=drive_link)
 
 制作時期：2026年1月〜2月
 
