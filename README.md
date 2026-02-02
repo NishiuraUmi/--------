@@ -25,9 +25,17 @@ CPU対戦機能を搭載し、BGMや効果音による演出にもこだわり�
 </figure>
 
 ### 2. ゲーム画面
-盤面をクリックして石を置きます。置ける場所には黄色いヒントが表示されます。
-
+盤面をクリックして石を置きます。また、初心者でもプレイしやすいように置ける場所には黄色い丸のアシストが表示されます。
 <figure>
     <img src="playing.png" alt="10x10オセロ プレイ中の画面">
-    <figcaption>プレイング画面</figcaption>
+    <figcaption>プレイング画面1</figcaption>
+</figure>
+また、置ける場所がなくなり手番がパスする場合は、手番がパスになったのを分かりやすくするために下の画像のように『白(または黒)の置ける場所がないため、順番をパスします。』と表示されるようにしました。
+<figure>
+    <img src="playing2.png" alt="10x10オセロ プレイ中の画面">
+    <figcaption>プレイング画面2</figcaption>
+</figure>
+<figure>
+    <img src="playing3.png" alt="10x10オセロ プレイ中の画面">
+    <figcaption>プレイング画面3</figcaption>
 </figure>
