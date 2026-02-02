@@ -20,11 +20,14 @@ CPU対戦機能を搭載し、BGMや効果音による演出にもこだわり�
 「1」キーで黒（先攻）、「2」キーで白（後攻）を選択して開始します。
 
 <figure>
-    <img src="title_screen.png" alt="10x10オセロ タイトル画面">
+    <img src="title.png" alt="10x10オセロ タイトル画面">
     <figcaption>タイトル画面</figcaption>
 </figure>
 
 ### 2. ゲーム画面
 盤面をクリックして石を置きます。置ける場所には黄色いヒントが表示されます。
 
-![ゲーム画面](https://drive.google.com/file/d/1fWMkRqeIO8das_WBk_dKMkeO4Vy_Dja0/view?usp=sharing)
+<figure>
+    <img src="playing.png" alt="10x10オセロ プレイ中の画面">
+    <figcaption>プレイング画面</figcaption>
+</figure>
