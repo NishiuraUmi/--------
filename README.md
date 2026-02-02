@@ -19,9 +19,9 @@ CPU対戦機能を搭載し、BGMや効果音による演出にもこだわり�
 ゲームを起動するとタイトル画面が表示されます。
 「1」キーで黒（先攻）、「2」キーで白（後攻）を選択して開始します。
 
-![タイトル画面](ここにタイトル画面の画像URL)
+![タイトル画面](https://drive.google.com/file/d/1Mljt8rxgYnFv-PcvsHF-3dEjj82ZDhoW/view?usp=sharing)
 
 ### 2. ゲーム画面
 盤面をクリックして石を置きます。置ける場所には黄色いヒントが表示されます。
 
-![ゲーム画面](ここにゲーム画面の画像URL)
+![ゲーム画面](https://drive.google.com/file/d/1fWMkRqeIO8das_WBk_dKMkeO4Vy_Dja0/view?usp=sharing)
